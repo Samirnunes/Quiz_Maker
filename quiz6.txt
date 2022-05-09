@@ -1,0 +1,3 @@
+This is question1 from quiz6.
+This is question2 from quiz6.
+This is question3 from quiz6.
